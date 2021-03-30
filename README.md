@@ -36,4 +36,10 @@ Codeblocks >> settings >> editor >> keyboard shortcut
 4. Toggle log window = f2
 5. Minimal perspective (Only editor) view = f3
 6. Default perspective view = f4
+7. Abbreviation auto complete = SHIFT + SPACE
+8. New empty file = CTRL + N
+9. New file = CTRL + SHIFT + N
+
+## Changing abbreviation(auto complete)
+Codeblocks >> settings >> editor >> abbreviation
 
